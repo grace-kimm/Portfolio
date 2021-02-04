@@ -567,6 +567,10 @@ p {
     display: block;
   }
 
+  .navbar__toggle-btn {
+    margin-top: 14px;
+  }
+
   .section {
     padding: 16px;
     padding-top: 40px;
